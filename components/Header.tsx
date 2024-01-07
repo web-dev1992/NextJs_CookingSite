@@ -1,9 +1,7 @@
-import React from 'react'
-
+import React from "react";
+import Carousel from "./Carousel";
 function Header() {
-  return (
-    <div>Header</div>
-  )
+  return <Carousel />;
 }
 
-export default Header
+export default Header;

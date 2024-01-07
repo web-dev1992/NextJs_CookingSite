@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "image": "/images/slider1.png",
+    "title": "Spicy delicious chicken wings",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 1,
+    "image": "/images/slider2.png",
+    "title": "French Omlet",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  }
+]
