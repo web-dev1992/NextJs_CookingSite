@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      dropShadow: {
+        red: "30px 10px 25px rgba(255, 0, 0, 0.25)",
+        green: "30px 10px 25px rgba(0, 255, 0, 0.25)",
+        yellow: "30px 10px 25px rgba(255, 255, 0, 0.25)",
+        stone: "30px 10px 25px rgba(0, 0, 0, 0.25)",
+        lime: "30px 10px 25px rgba(50, 205, 50, 0.25)",
+        blue: "30px 10px 25px rgba(0, 0,255, 0.25)",
+      },
     },
     // colors: {
     //   skyblue: "#E7FAFE",
