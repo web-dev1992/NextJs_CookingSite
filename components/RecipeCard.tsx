@@ -38,7 +38,7 @@ export const RecipeCard: FC<IRecipeCardProps> = (props) => {
         <Favorite className={`${!like ? "text-[#DBE2E5]" : "text-red-400"}`} />
       </IconButton>
       <CardContent>
-        <Link href={`/recipes/${props.id}`}></Link> <h4>{props.title}</h4>
+        <Link href={`/recipes/${props.id}`}><h4>{props.title}</h4></Link> 
       </CardContent>
       <CardActions sx={{ gap: 4 }}>
         <button className="flex  text-stone-600 font-medium text-sm  justify-between items-center bg-transparent gap-2">
