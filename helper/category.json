@@ -2,49 +2,41 @@
   {
     "id": 1,
     "title": "Breakfast",
-    "image": "/images/Breakfast.svg",
-    "bgColor": "teal"
+    "image": "/images/Breakfast.svg"
   },
   {
     "id": 2,
     "title": "Vegan",
-    "image": "/images/Vegan.svg",
-    "bgColor": "green"
+    "image": "/images/Vegan.svg"
   },
   {
     "id": 3,
     "title": "Meat",
-    "image": "/images/Meat.svg",
-    "bgColor": "red"
+    "image": "/images/Meat.svg"
   },
   {
     "id": 4,
     "title": "Dessert",
-    "image": "/images/Dessert.svg",
-    "bgColor": "yellow"
+    "image": "/images/Dessert.svg"
   },
   {
     "id": 5,
     "title": "Drink",
-    "image": "/images/Drink.png",
-    "bgColor": "blue"
+    "image": "/images/Drink.png"
   },
   {
     "id": 6,
     "title": "Lunch",
-    "image": "/images/Lunch.svg",
-    "bgColor": "stone"
+    "image": "/images/Lunch.svg"
   },
   {
     "id": 7,
     "title": "Chocolate",
-    "image": "/images/Chocolate.svg",
-    "bgColor": "stone"
+    "image": "/images/Chocolate.svg"
   },
   {
     "id": 8,
     "title": "Snack",
-    "image": "/images/Snack.png",
-    "bgColor": "yellow"
+    "image": "/images/Snack.png"
   }
 ]

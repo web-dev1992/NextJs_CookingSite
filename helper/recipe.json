@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "image": "/images/image1.png",
+    "title": "Big and Juicy Wagyu Beef Cheeseburger ",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Snack",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 2,
+    "image": "/images/image2.png",
+    "title": "Fresh Lime Roasted salmon with Ginger Sauce",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Fish",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 3,
+    "image": "/images/image3.png",
+    "title": "Strawberry Oatmeal Pancake with Honey Syrup",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Breakfast",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 4,
+    "image": "/images/image4.png",
+    "title": "Fresh and Healthy Mixed Mayonnaise Salad",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Healthy",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 5,
+    "image": "/images/image5.png",
+    "title": "Chicken Meatballs with Cream Cheese",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Meat",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 6,
+    "image": "/images/ads.png",
+    "title": "Don't forget to eat healthy food",
+    "desc": "",
+    "TimeToReady": 0,
+    "Category": "Ads",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 7,
+    "image": "/images/image6.png",
+    "title": "Fruity Pancake with Orange & Blueberry",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Sweet",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 8,
+    "image": "/images/image7.png",
+    "title": "The Best Easy One Pot Chicken and Rice",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Snack",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  },
+  {
+    "id": 9,
+    "image": "/images/image8.png",
+    "title": "The Creamiest Creamy Chicken and Bacon Pasta",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "Category": "Noodle",
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  }
+]
