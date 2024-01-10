@@ -22,7 +22,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
     <Paper
       elevation={0}
       style={{ backgroundImage: `url(${item.image})` }}
-      className="relative w-10/12 lg:h-[640px] h-60 bg-no-repeat bg-contain bg-right bg-[#E7FAFE] m-auto text-white rounded-s-[50px] p-4 lg:p-14 flex items-center "
+      className="relative w-10/12 lg:h-[640px] h-60 bg-no-repeat bg-contain bg-right bg-skyblue m-auto text-white rounded-s-[50px] p-4 lg:p-14 flex items-center "
     >
       <Image
         src="/images/Badge.svg"
@@ -32,7 +32,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
         className="absolute top-16 left-[40%] hidden xl:block"
       />
       <div className="flex  h-full w-2/5 md:w-1/2 flex-col justify-between items-start gap-10 text-black">
-        <button className="bg-white rounded-[30px] w-[156px] h-11 text-black font-semibold text-sm hidden  lg:flex justify-evenly items-center ">
+        <button className="bg-white rounded-4xl w-[156px] h-11 text-black font-semibold text-sm hidden  lg:flex justify-evenly items-center ">
           <Image
             src="/images/letter.png"
             width={24}
@@ -42,14 +42,12 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
           <span> Hot Recipes</span>
         </button>
         <div className="flex flex-col justify-center items-start gap-10">
-          <h1 className="font-semibold text-xl md:text-4xl xl:text-[60px] text-wrap ">
+          <h1 className="md:text-4xl xl:text-[60px]  ">
             <Link href="/recipes">{item.title}</Link>
           </h1>
-          <p className="hidden lg:block text-stone-600 font-normal text-base">
-            {item.desc.slice(0, 150)}
-          </p>
+          <p className="hidden lg:block ">{item.desc.slice(0, 150)}</p>
           <div className="flex justify-between items-center gap-5">
-            <button className="hidden md:flex rounded-[30px] w-36 h-10 text-stone-600 font-medium text-sm  justify-evenly items-center bg-opacity-5 bg-black ">
+            <button className="hidden md:flex rounded-4xl w-36 h-10 text-stone-600 font-medium text-sm  justify-evenly items-center bg-opacity-5 bg-black ">
               <Image
                 src="/images/Timer.svg"
                 width={24}
@@ -58,7 +56,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
               />
               30 Minutes
             </button>
-            <button className="hidden md:flex rounded-[30px] w-[120px] h-10 text-stone-600 font-medium text-sm justify-evenly items-center bg-opacity-5 bg-black">
+            <button className="hidden md:flex rounded-4xl w-[120px] h-10 text-stone-600 font-medium text-sm justify-evenly items-center bg-opacity-5 bg-black">
               <Image
                 src="/images/ForkKnife.svg"
                 width={24}
@@ -69,7 +67,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
             </button>
           </div>
         </div>
-        <div className="hidden xl:flex justify-between w-full">
+        <div className="hidden lg:flex justify-between w-full">
           <MiniProfile
             name={item.author.name}
             image={item.author.image}
