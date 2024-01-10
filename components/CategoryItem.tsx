@@ -4,14 +4,13 @@ import { Paper } from "@mui/material";
 interface ICategoryItemProps {
   title: string;
   image: string;
-  bgColor: string;
   onDragStart: (e: React.DragEvent<HTMLDivElement>) => void;
 }
 
 const CategoryItem: FC<ICategoryItemProps> = (props) => {
   return (
     <Paper
-      className={`w-44 h-36 m-auto relative rounded-[30px] bg-gradient-to-t  to-transparent flex flex-col justify-end items-center p-8 my-24 shadow-none
+      className={`w-44 h-36 m-auto relative rounded-4xl bg-gradient-to-t  to-transparent flex flex-col justify-end items-center p-8 my-24 shadow-none
       ${
         props.title === "Meat"
           ? "from-red-50"
