@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Post1.png",
+    "url": "https://www.instagram.com/foodieland/1"
+  },
+  {
+    "id": 2,
+    "image": "/images/Post2.png",
+    "url": "https://www.instagram.com/foodieland/2"
+  },
+  {
+    "id": 3,
+    "image": "/images/Post3.png",
+    "url": "https://www.instagram.com/foodieland/3"
+  },
+  {
+    "id": 4,
+    "image": "/images/Post4.png",
+    "url": "https://www.instagram.com/foodieland/4"
+  }
+]
