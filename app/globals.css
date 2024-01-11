@@ -10,9 +10,17 @@
     @apply font-semibold text-5xl text-black;
   }
   h3 {
+    @apply font-semibold text-2xl text-black;
   }
+
   h4 {
     @apply font-semibold text-2xl text-black;
+  }
+  h5 {
+     @apply font-semibold text-xl text-black;
+  }
+  h6 {
+    @apply font-semibold text-lg text-black;
   }
   button {
     @apply bg-skyblue;
@@ -24,7 +32,7 @@
 
 @layer components {
   .btn {
-    @apply h-7;
+    @apply rounded-2xl w-[200px] h-[60px] text-white font-medium text-sm flex justify-center items-center gap-5  bg-black;
   }
   .btn:hover {
     @apply scale-125 transition-transform duration-200 ease-out cursor-pointer;

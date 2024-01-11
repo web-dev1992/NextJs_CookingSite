@@ -23,7 +23,7 @@ export const RecipeCard: FC<IRecipeCardProps> = (props) => {
     <Card
       sx={{ maxWidth: 400 }}
       elevation={0}
-      className="p-4 rounded-4xl w-[400px] bg-gradient-to-t from-skyblue  relative"
+      className="p-4 rounded-4xl w-[400px] bg-gradient-to-t from-skyblue relative"
     >
       <CardMedia
         sx={{ height: 140 }}

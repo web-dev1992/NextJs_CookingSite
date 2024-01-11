@@ -38,5 +38,10 @@
     "id": 8,
     "title": "Snack",
     "image": "/images/Snack.png"
+  },
+  {
+    "id": 8,
+    "title": "Healthy",
+    "image": "/images/Healthy.png"
   }
 ]

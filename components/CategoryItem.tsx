@@ -20,7 +20,7 @@ const CategoryItem: FC<ICategoryItemProps> = (props) => {
           ? "from-stone-100"
           : props.title === "Breakfast"
           ? "from-lime-50"
-          : props.title === "Drink"
+          : props.title === "Drink" || props.title === "Healthy"
           ? "from-blue-50"
           : "from-green-50"
       }`}
@@ -38,16 +38,16 @@ const CategoryItem: FC<ICategoryItemProps> = (props) => {
             ? "drop-shadow-red"
             : props.title === "Dessert" || props.title === "Lunch"
             ? "drop-shadow-yellow"
-            : props.title === "Breakfast"
+            : props.title === "Breakfast" || props.title === "Healthy"
             ? "drop-shadow-stone"
             : props.title === "Drink"
             ? "drop-shadow-blue"
             : "drop-shadow-green"
         }`}
       />
-      <h3 className="font-semibold text-lg text-black align-center">
+      <h6 className="align-center">
         {props.title}
-      </h3>
+      </h6>
     </Paper>
   );
 };
