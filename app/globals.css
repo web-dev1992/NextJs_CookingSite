@@ -4,7 +4,7 @@
 
 @layer base {
   h1 {
-    @apply font-semibold text-5xl text-black;
+    @apply font-semibold text-5xl text-black tracking-tight;
   }
   h2 {
     @apply font-semibold text-4xl text-black;
@@ -35,6 +35,6 @@
     @apply rounded-2xl w-[200px] h-[60px] text-white font-medium text-sm flex justify-center items-center gap-5  bg-black;
   }
   .btn:hover {
-    @apply scale-125 transition-transform duration-200 ease-out cursor-pointer;
+    @apply scale-110 transition-transform duration-200 ease-out cursor-pointer;
   }
 }

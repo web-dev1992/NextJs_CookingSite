@@ -75,7 +75,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
           />
           <Link
             href="/recipes"
-            className="rounded-2xl w-[200px] h-[60px] text-white font-medium text-sm flex justify-center items-center gap-5  bg-black"
+            className="btn"
           >
             View Recipes
             <Image
@@ -83,6 +83,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
               width={24}
               height={24}
               alt="View Recipes"
+              className="text-white"
             />
           </Link>
         </div>

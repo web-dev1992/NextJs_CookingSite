@@ -6,6 +6,7 @@ import { Ads } from "./Ads";
 interface IRecipesListProps {}
 
 export const RecipesList: FC<IRecipesListProps> = (props) => {
+  const newRecipes=Recipes.filter(recipe=>recipe.Top==1);
   return (
     <Container className=" max-w-screen-xl px-0">
       <div className="w-full flex-col flex items-center justify-center px-0">
@@ -17,9 +18,16 @@ export const RecipesList: FC<IRecipesListProps> = (props) => {
             maiores quasi.
           </p>
         </div>
-        <Grid container sx={{ rowGap: 4, justifyContent:"center"}}  >
-          {Recipes.map(({ id, title, image, TimeToReady, Category }) => (
-            <Grid item xs={12} md={6} lg={4} key={id} className="flex items-center justify-center "  >
+        <Grid container sx={{ rowGap: 4, justifyContent: "center" }}>
+          {newRecipes.map(({ id, title, image, TimeToReady, Category }) => (
+            <Grid
+              item
+              xs={12}
+              md={6}
+              lg={4}
+              key={id}
+              className="flex items-center justify-center "
+            >
               {Category == "Ads" ? (
                 <Ads />
               ) : (

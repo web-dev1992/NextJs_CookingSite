@@ -13,7 +13,7 @@ export const InstagramPosts: FC<IInstagramPostsProps> = (props) => {
     <Container className="max-w-screen-2xl bg-gradient-to-t from-skyblue">
       <Grid
         container
-        sx={{ rowGap:8, justifyContent: "center" }}
+        sx={{ rowGap: 8, justifyContent: "center" }}
         className="max-w-screen-xl py-28 m-auto"
       >
         <div className="flex flex-col justify-center items-center gap-10 ">
@@ -44,6 +44,19 @@ export const InstagramPosts: FC<IInstagramPostsProps> = (props) => {
               </Link>
             </Grid>
           ))}
+          <a
+            target="_blank"
+            href="https://instagram.com/foodieland"
+            className="btn w-56 mt-14"
+          >
+            <span>View Our Instagram</span>
+            <Image
+              src="/images/instaWhite.svg"
+              width={22}
+              height={22}
+              alt="instagram page"
+            />
+          </a>
         </Grid>
       </Grid>
     </Container>
