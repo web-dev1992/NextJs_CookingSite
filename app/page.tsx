@@ -4,6 +4,7 @@ import { RecipesList } from "@/components/RecipesList";
 import { LearnMore } from "@/components/LearnMore";
 import { InstagramPosts } from "@/components/InstagramPosts";
 import { MoreRecipes } from "@/components/MoreRecipes";
+import { SubsribeCard } from "@/components/SubscribeCard";
 export default function Home() {
   return (
     <>
@@ -13,6 +14,7 @@ export default function Home() {
       <LearnMore />
       <InstagramPosts />
       <MoreRecipes />
+      <SubsribeCard />
     </>
   );
 }

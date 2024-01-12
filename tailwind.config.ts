@@ -15,6 +15,8 @@ const config: Config = {
       },
       borderRadius: {
         "4xl": "30px",
+        "5xl": "40px",
+        "6xl": "50px",
       },
       dropShadow: {
         red: "30px 10px 25px rgba(255, 0, 0, 0.25)",
