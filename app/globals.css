@@ -46,4 +46,10 @@
   .info {
     @apply text-lg font-medium text-black;
   }
+  .contact-label {
+    @apply text-xs font-medium text-stone-500;
+  }
+  .contact-input {
+    @apply bg-white w-full p-4 rounded-2xl border border-stone-300 placeholder:text-sm text-stone-400;
+  }
 }
