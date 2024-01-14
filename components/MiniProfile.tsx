@@ -7,7 +7,7 @@ interface MiniProfileProps {
 }
 const MiniProfile: FC<MiniProfileProps> = (props) => {
   return (
-    <div className="flex justify-between items-center gap-5">
+    <div className="flex justify-start items-center gap-5">
       <Image
         src={props.image}
         alt={props.name}

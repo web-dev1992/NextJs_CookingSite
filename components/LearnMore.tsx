@@ -1,9 +1,9 @@
-import {Container, Grid} from "@mui/material";
+import { Container, Grid } from "@mui/material";
 import Image from "next/image";
 import { FC } from "react";
 interface ILearnMoreProps {}
 
-export const LearnMore: FC<ILearnMoreProps> = (props) => {
+const LearnMore: FC<ILearnMoreProps> = (props) => {
   return (
     <Container className="max-w-screen-xl">
       <Grid container rowGap={12} className="m-auto my-48  px-0 ">
@@ -33,3 +33,4 @@ export const LearnMore: FC<ILearnMoreProps> = (props) => {
     </Container>
   );
 };
+export default LearnMore;

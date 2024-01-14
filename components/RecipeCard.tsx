@@ -17,7 +17,7 @@ interface IRecipeCardProps {
   Category: string;
 }
 
-export const RecipeCard: FC<IRecipeCardProps> = (props) => {
+const RecipeCard: FC<IRecipeCardProps> = (props) => {
   const [like, setLike] = useState(false);
   return (
     <Card
@@ -38,7 +38,9 @@ export const RecipeCard: FC<IRecipeCardProps> = (props) => {
         <Favorite className={`${!like ? "text-[#DBE2E5]" : "text-red-400"}`} />
       </IconButton>
       <CardContent>
-        <Link href={`/recipes/${props.id}`}><h4>{props.title}</h4></Link> 
+        <Link href={`/recipes/${props.id}`}>
+          <h4>{props.title}</h4>
+        </Link>
       </CardContent>
       <CardActions sx={{ gap: 4 }}>
         <button className="flex  text-stone-600 font-medium text-sm  justify-between items-center bg-transparent gap-2">
@@ -58,3 +60,5 @@ export const RecipeCard: FC<IRecipeCardProps> = (props) => {
     </Card>
   );
 };
+
+export default RecipeCard;

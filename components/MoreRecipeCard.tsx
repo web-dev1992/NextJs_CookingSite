@@ -16,8 +16,7 @@ interface IMoreRecipeCardProps {
   TimeToReady: number;
   Category: string;
 }
-
-export const MoreRecipeCard: FC<IMoreRecipeCardProps> = (props) => {
+ const MoreRecipeCard: FC<IMoreRecipeCardProps> = (props) => {
   const [like, setLike] = useState(false);
   return (
     <Card
@@ -60,3 +59,6 @@ export const MoreRecipeCard: FC<IMoreRecipeCardProps> = (props) => {
     </Card>
   );
 };
+
+
+export default MoreRecipeCard;

@@ -8,13 +8,13 @@ import Image from "next/image";
 import { FC } from "react";
 interface IInstagramPostsProps {}
 
-export const InstagramPosts: FC<IInstagramPostsProps> = (props) => {
+ const InstagramPosts: FC<IInstagramPostsProps> = (props) => {
   return (
     <Container className="max-w-screen-2xl bg-gradient-to-t from-skyblue">
       <Grid
         container
         sx={{ rowGap: 8, justifyContent: "center" }}
-        className="max-w-screen-xl py-28 m-auto"
+        className="max-w-screen-xl py-20 m-auto"
       >
         <div className="flex flex-col justify-center items-center gap-10 ">
           <h1>Check out @foodieland on Instagram</h1>
@@ -30,8 +30,8 @@ export const InstagramPosts: FC<IInstagramPostsProps> = (props) => {
               key={id}
               xs={12}
               md={6}
-              lg={4}
-              xl={3}
+              lg={3}
+              
               className="flex justify-center items-center  "
             >
               <Link href={url}>
@@ -62,3 +62,6 @@ export const InstagramPosts: FC<IInstagramPostsProps> = (props) => {
     </Container>
   );
 };
+
+
+export default InstagramPosts;

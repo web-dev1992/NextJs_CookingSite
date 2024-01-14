@@ -1,12 +1,12 @@
 import { FC } from "react";
 import { Container, Grid } from "@mui/material";
 import Recipes from "../helper/recipe.json";
-import { RecipeCard } from "./RecipeCard";
-import { Ads } from "./Ads";
+import  RecipeCard  from "./RecipeCard";
+import Ads  from "./Ads";
 interface IRecipesListProps {}
 
-export const RecipesList: FC<IRecipesListProps> = (props) => {
-  const newRecipes=Recipes.filter(recipe=>recipe.Top==1);
+const RecipesList: FC<IRecipesListProps> = (props) => {
+  const newRecipes = Recipes.filter((recipe) => recipe.Top == 1);
   return (
     <Container className=" max-w-screen-xl px-0">
       <div className="w-full flex-col flex items-center justify-center px-0">
@@ -46,3 +46,5 @@ export const RecipesList: FC<IRecipesListProps> = (props) => {
     </Container>
   );
 };
+
+export default RecipesList;

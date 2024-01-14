@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Chicken Ramen Soup with Mushroom ",
+    "image": "/images/image17.png",
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+    "Category": "Noodle",
+    "Top": 0,
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
+    "author": {
+      "name": "John Smith",
+      "image": "/images/user.png",
+      "date": "2021-05-05"
+    }
+  }
+]

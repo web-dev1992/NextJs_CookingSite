@@ -3,10 +3,10 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import Recipes from "../helper/recipe.json";
-import { MoreRecipeCard } from "./MoreRecipeCard";
+import MoreRecipeCard from "./MoreRecipeCard";
 interface IMoreRecipesProps {}
 
-export const MoreRecipes: FC<IMoreRecipesProps> = (props) => {
+const MoreRecipes: FC<IMoreRecipesProps> = (props) => {
   const newRecipes = Recipes.filter((recipe) => recipe.Top !== 1);
 
   return (
@@ -43,3 +43,5 @@ export const MoreRecipes: FC<IMoreRecipesProps> = (props) => {
     </Container>
   );
 };
+
+export default MoreRecipes;
