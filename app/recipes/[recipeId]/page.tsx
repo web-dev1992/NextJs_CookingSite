@@ -4,7 +4,7 @@ import Recommendation from "@/components/RecipeDetails/RecommendationRecipe";
 import SubscribeCard from "@/components/SubscribeCard";
 import RepDetails from "../../../helper/RepDetails.json";
 import Recipes from "../../../helper/recipe.json";
-import { FC } from "react";
+
 interface IRecipeDetailsProps {}
 
 export default function RecipeDetails({

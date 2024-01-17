@@ -13,7 +13,7 @@ const MoreRecipes: FC<IMoreRecipesProps> = (props) => {
     <Container className="max-w-screen-xl my-40">
       <Grid container sx={{ rowGap: 8, justifyContent: "center" }}>
         <div className="flex flex-col lg:flex-row justify-center items-center gap-10 ">
-          <h1>Try this delicious recipe to make your day</h1>
+          <h2>Try this delicious recipe to make your day</h2>
           <Typography paragraph className="w-11/12 ">
             Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqut enim ad minim

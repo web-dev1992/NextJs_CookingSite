@@ -7,8 +7,8 @@ export const Ingredients: FC<IIngredientsProps> = (props) => {
   return (
     <Grid container rowGap={8}>
       <Grid item xs={12}>
-        <h3 className="py-14">Ingredients</h3>
-        <h4>For main dish</h4>
+        <h3>Ingredients</h3>
+        <h4 className="pt-10">For main dish</h4>
         {Array.from({ length: 5 }).map((currElement, i) => (
           <div
             className="py-8 mr-10 flex justify-start gap-5 items-center border-b border-stone-200 "

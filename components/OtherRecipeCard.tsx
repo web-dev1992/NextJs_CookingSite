@@ -3,15 +3,11 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Box from "@mui/material/Box";
-import Typography from "@mui/material/Typography";
-import Image from "next/image";
 import Link from "next/link";
 interface IOtherRecipeCardProps {
   id: number;
   title: string;
   image: string;
-  TimeToReady: number;
-  Category: string;
   author: { name: string; image: string; date: string };
 }
 
@@ -26,14 +22,14 @@ const OtherRecipeCard: FC<IOtherRecipeCardProps> = (props) => {
         className="rounded-xl"
       />
       <Box sx={{ display: "flex", flexDirection: "column" }}>
-        <CardContent>
+        <CardContent >
           <Link
             className="w-full text-lg font-semibold text-wrap"
             href={`/recipes/${props.id}`}
           >
             {props.title.slice(0, 30)}
           </Link>
-          <p className="text-left">By {props.author.name}</p>
+          <p className="text-left text-sm font-medium py-3">By {props.author.name}</p>
         </CardContent>
       </Box>
     </Card>

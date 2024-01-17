@@ -7,9 +7,9 @@ const SubscribeCard: FC<ISubsribeCardProps> = (props) => {
     <Container className="max-w-screen-xl">
       <div className=" m-auto relative overflow-hidden bg-skyblue rounded-6xl flex-col flex items-center justify-center gap-8 px-0 py-20 mb-20">
         {/* <Grid item> */}{" "}
-        <h1 className="text-center w-full md:w-1/2">
+        <h2 className="text-center w-full ">
           Deliciousness to your inbox
-        </h1>
+        </h2>
         <p className="w-full md:w-1/2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa itaque
           rerum qui, facere odit pariatur. Molestias facilis libero maiores
@@ -21,7 +21,7 @@ const SubscribeCard: FC<ISubsribeCardProps> = (props) => {
             className="rounded-3xl w-full h-full placeholder:text-stone-600 px-4"
             placeholder="Your email address..."
           />
-          <button className="btn absolute top-2 right-2 w-4/12 md:w-[200px]">
+          <button className="btn absolute top-2 right-2 w-4/12 md:w-[160px]">
             Subscribe
           </button>
         </form>

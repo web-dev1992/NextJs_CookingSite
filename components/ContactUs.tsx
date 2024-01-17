@@ -10,7 +10,7 @@ export const ContactUs: FC<IContactUsProps> = (props) => {
   const handleSubmit = () => {};
   return (
     <Container className="max-w-screen-xl my-16">
-      <h1 className="text-center text-[60px] w-full py-16">Contact us</h1>
+      <h1 className="text-center w-full">Contact us</h1>
       <Grid container>
         <Grid
           item

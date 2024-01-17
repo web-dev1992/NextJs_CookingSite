@@ -8,8 +8,6 @@ interface IOtherRecipesProps {
     id: number;
     title: string;
     image: string;
-    TimeToReady: number;
-    Category: string;
     author: { name: string; image: string; date: string };
   }[];
 }
@@ -17,22 +15,18 @@ interface IOtherRecipesProps {
 export const OtherRecipes: FC<IOtherRecipesProps> = (props) => {
   return (
     <Grid container sx={{ rowGap: 6 }}>
-      <h3 className="pt-14 ">{props.title}</h3>
+      <h3 >{props.title}</h3>
       <Grid container rowGap={3}>
-        {props.recipes.map(
-          ({ id, title, image, TimeToReady, Category, author }) => (
-            <Grid item key={id} className="flex items-center justify-center ">
-              <OtherRecipeCard
-                id={id}
-                title={title}
-                image={image}
-                TimeToReady={TimeToReady}
-                Category={Category}
-                author={author}
-              />
-            </Grid>
-          )
-        )}
+        {props.recipes.map(({ id, title, image, author }) => (
+          <Grid item key={id} className="flex items-center justify-center ">
+            <OtherRecipeCard
+              id={id}
+              title={title}
+              image={image}
+              author={author}
+            />
+          </Grid>
+        ))}
       </Grid>
     </Grid>
   );

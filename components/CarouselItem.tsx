@@ -42,7 +42,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
           <span> Hot Recipes</span>
         </button>
         <div className="flex flex-col justify-center items-start gap-10">
-          <h1 className="md:text-4xl xl:text-[60px]  ">
+          <h1 className="text-3xl lg:text-5xl xl:text-[64px]  ">
             <Link href="/recipes">{item.title}</Link>
           </h1>
           <p className="hidden lg:block ">{item.desc.slice(0, 150)}</p>
@@ -73,10 +73,7 @@ const CarouselItem: FC<CarouselItemProps> = ({ item }) => {
             image={item.author.image}
             date={item.author.date}
           />
-          <Link
-            href="/recipes"
-            className="btn"
-          >
+          <Link href="/recipes" className="btn">
             View Recipes
             <Image
               src="/images/PlayCircle.svg"

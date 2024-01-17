@@ -4,10 +4,10 @@
 
 @layer base {
   h1 {
-    @apply font-semibold text-5xl text-black tracking-tight;
+    @apply font-semibold text-[64px] text-black tracking-tight;
   }
   h2 {
-    @apply font-semibold text-4xl text-black;
+    @apply font-semibold text-5xl text-black;
   }
   h3 {
     @apply font-semibold text-3xl text-black;
@@ -52,4 +52,5 @@
   .contact-input {
     @apply bg-white w-full p-4 rounded-2xl border border-stone-300 placeholder:text-sm text-stone-400;
   }
+  
 }
