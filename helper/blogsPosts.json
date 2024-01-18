@@ -4,31 +4,36 @@
     "title": "Crochet Projects for Noodle Lovers",
     "image": "/images/image17.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -42,31 +47,36 @@
     "title": "10 Vegetarian Recipes To Eat This Month",
     "image": "/images/image10.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -78,33 +88,38 @@
   {
     "id": "3",
     "title": "Full Guide to Becoming a Professional Chef",
-    "image": "/images/image18.png",
+    "image": "/images/cooking1.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -118,31 +133,36 @@
     "title": "Simple & Delicious Vegetarian Lasagna",
     "image": "/images/image19.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -156,31 +176,36 @@
     "title": "Plantain and Pinto Stew with Aji Verde",
     "image": "/images/image20.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -194,31 +219,36 @@
     "title": "We’re Hiring a Communications Assistant!",
     "image": "/images/image21.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -232,31 +262,36 @@
     "title": "We’re Hiring a Communications Assistant!",
     "image": "/images/image21.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -270,31 +305,36 @@
     "title": "We’re Hiring a Communications Assistant!",
     "image": "/images/image21.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {
@@ -308,31 +348,36 @@
     "title": "We’re Hiring a Communications Assistant!",
     "image": "/images/image21.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar.",
-    "Q&A": [
+    "QsnAns": [
       {
         "question": "How did you start out in the food industry?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What do you like most about your job?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "Do you cook at home on your days off?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": "/images/cooking.png"
+        "image": "/images/cooking.png",
+        "quote": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio.”"
       },
       {
         "question": "What would your advice be to young people looking to get their foot in the door?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       },
       {
         "question": "What is the biggest misconception that people have about being a professional chef?",
         "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ultrices odio. Nulla at congue diam, at dignissim turpis. Ut vehicula sed velit a faucibus. In feugiat vestibulum velit vel pulvinar. Fusce id mollis ex. Praesent feugiat elementum ex ut suscipit.",
-        "image": ""
+        "image": "",
+        "quote": ""
       }
     ],
     "author": {

@@ -26,7 +26,7 @@
     @apply bg-skyblue;
   }
   p {
-    @apply text-stone-600 font-normal text-base text-wrap text-center;
+    @apply text-stone-600 font-normal text-base text-wrap text-left;
   }
 }
 
@@ -52,5 +52,4 @@
   .contact-input {
     @apply bg-white w-full p-4 rounded-2xl border border-stone-300 placeholder:text-sm text-stone-400;
   }
-  
 }

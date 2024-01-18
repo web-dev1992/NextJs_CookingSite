@@ -5,7 +5,7 @@ interface ISubsribeCardProps {}
 const SubscribeCard: FC<ISubsribeCardProps> = (props) => {
   return (
     <Container className="max-w-screen-xl">
-      <div className=" m-auto relative overflow-hidden bg-skyblue rounded-6xl flex-col flex items-center justify-center gap-8 px-0 py-20 mb-20">
+      <div className=" m-auto relative overflow-hidden bg-skyblue rounded-6xl flex-col flex items-center justify-center gap-8 px-4 py-20 mb-20">
         {/* <Grid item> */}{" "}
         <h2 className="text-center w-full ">
           Deliciousness to your inbox

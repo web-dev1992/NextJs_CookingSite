@@ -1,11 +1,16 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Roboto } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
-
+const roboto = Roboto({
+  weight: ["100", "300", "400", "500", "700", "900"],
+  style: ["normal", "italic"],
+  subsets: ["latin"],
+  display: "swap",
+});
 export const metadata: Metadata = {
   title: "CookingSite",
   description: "A Next.js Cooking Site",
@@ -23,7 +28,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={roboto.className}>
         <div className="max-w-screen-2xl mx-auto">
           <Navbar />
           {children}
