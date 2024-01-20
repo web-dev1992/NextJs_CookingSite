@@ -24,10 +24,10 @@ const PostCard: FC<IPostCardProps> = (props) => {
       className="flex items-center justify-start"
     >
       <Grid item xs={12} md={4}>
-        <Image
-          width={290}
-          height={200}
-          src={props.image}
+        <CardMedia
+          component={"img"}
+          sx={{ width: 290, height: 200 }}
+          image={props.image}
           alt={props.title}
           className="rounded-xl"
         />
