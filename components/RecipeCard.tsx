@@ -23,13 +23,13 @@ const RecipeCard: FC<IRecipeCardProps> = (props) => {
     <Card
       sx={{ maxWidth: 400 }}
       elevation={0}
-      className="p-4 rounded-4xl w-[400px] bg-gradient-to-t from-skyblue relative"
+      className="p-4 rounded-4xl w-full sm:w-[400px] bg-gradient-to-t from-skyblue relative overflow-hidden"
     >
       <CardMedia
         sx={{ height: 140 }}
         image={props.image}
         title={props.title}
-        className="rounded-4xl w-[368px] h-64"
+        className="rounded-4xl w-full sm:w-[368px] h-64"
       />
       <IconButton
         className="absolute top-10 right-10 bg-white rounded-full p-2"

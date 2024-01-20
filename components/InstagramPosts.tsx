@@ -29,7 +29,8 @@ interface IInstagramPostsProps {}
               item
               key={id}
               xs={12}
-              md={6}
+              sm={6}
+              md={4}
               lg={3}
               className="flex justify-center items-center  "
             >

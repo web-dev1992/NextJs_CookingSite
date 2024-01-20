@@ -28,7 +28,7 @@ function Header() {
   return (
     <>
       {hasWindow && (
-        <div className="w-full  md:py-10 py-5 m-auto space-x-4 max-w-screen-2xl ">
+        <div className="w-full md:py-10 py-5 m-auto space-x-4">
           <AliceCarousel
             mouseTracking
             items={Items}

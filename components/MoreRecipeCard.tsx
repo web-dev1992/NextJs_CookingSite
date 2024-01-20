@@ -20,7 +20,7 @@ interface IMoreRecipeCardProps {
   const [like, setLike] = useState(false);
   return (
     <Card
-      sx={{ maxWidth: 400 }}
+      // sx={{ maxWidth: 400 }}
       elevation={0}
       className=" w-72 h-80 relative"
     >

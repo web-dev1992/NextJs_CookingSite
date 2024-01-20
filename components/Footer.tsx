@@ -1,22 +1,13 @@
 "use client";
 
 import { FC } from "react";
-import {
-  AppBar,
-  Toolbar,
-  IconButton,
-  Box,
-  Menu,
-  MenuList,
-  MenuItem,
-  Typography,
-} from "@mui/material";
+import { AppBar, Toolbar, IconButton, Box, Typography } from "@mui/material";
 import Image from "next/image";
 import Link from "next/link";
 interface IFooterProps {}
 const pages = [
   { title: "Recipes", href: "/recipes" },
-  { title: "Blog", href: "/blog" },
+  { title: "Blog", href: "/blogs" },
   { title: "Contact", href: "/contact" },
   { title: "About us", href: "/about" },
 ];
@@ -25,7 +16,7 @@ const Footer: FC<IFooterProps> = (props) => {
   return (
     <AppBar
       position="static"
-      className="max-w-screen-xl bg-white shadow-none border-b-2 m-auto "
+      className=" bg-white shadow-none border-b-2 m-auto "
     >
       <Toolbar className="w-full flex flex-col justify-between items-center ">
         <Box className="w-full flex flex-col md:flex-row justify-between items-center border-b-2 py-10">

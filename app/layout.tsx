@@ -28,7 +28,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={roboto.className}>
+      <body>
         <div className="max-w-screen-2xl mx-auto">
           <Navbar />
           {children}

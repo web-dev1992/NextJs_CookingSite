@@ -17,7 +17,7 @@ interface INavbarProps {}
 const pages = [
   { title: "Home", href: "/" },
   { title: "Recipes", href: "/recipes" },
-  { title: "Blog", href: "/blog" },
+  { title: "Blog", href: "/blogs" },
   { title: "Contact", href: "/contact" },
   { title: "About us", href: "/about" },
 ];

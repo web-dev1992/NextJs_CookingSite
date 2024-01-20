@@ -3,10 +3,47 @@
     "id": 1,
     "image": "/images/image1.png",
     "title": "Big and Juicy Wagyu Beef Cheeseburger ",
+    "Top": 1,
+    "Category": "Snack",
+    "video": "/videos/newDish.mp4",
     "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
     "TimeToReady": 30,
-    "Category": "Snack",
-    "Top": 1,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -17,10 +54,47 @@
     "id": 2,
     "image": "/images/image2.png",
     "title": "Fresh Lime Roasted salmon with Ginger Sauce",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Fish",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -31,10 +105,47 @@
     "id": 3,
     "image": "/images/image3.png",
     "title": "Strawberry Oatmeal Pancake with Honey Syrup",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Breakfast",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -45,10 +156,47 @@
     "id": 4,
     "image": "/images/image4.png",
     "title": "Fresh and Healthy Mixed Mayonnaise Salad",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Healthy",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -59,10 +207,47 @@
     "id": 5,
     "image": "/images/image5.png",
     "title": "Chicken Meatballs with Cream Cheese",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Meat",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -73,10 +258,10 @@
     "id": 6,
     "image": "/images/ads.png",
     "title": "Don't forget to eat healthy food",
-    "desc": "",
-    "TimeToReady": 0,
     "Category": "Ads",
     "Top": 1,
+    "desc": "",
+    "TimeToReady": 0,
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -87,10 +272,47 @@
     "id": 7,
     "image": "/images/image6.png",
     "title": "Fruity Pancake with Orange & Blueberry",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Sweet",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -101,10 +323,47 @@
     "id": 8,
     "image": "/images/image7.png",
     "title": "The Best Easy One Pot Chicken and Rice",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Snack",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -115,10 +374,47 @@
     "id": 9,
     "image": "/images/image8.png",
     "title": "The Creamiest Creamy Chicken and Bacon Pasta",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 1,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -129,10 +425,47 @@
     "id": 10,
     "image": "/images/image10.png",
     "title": "Mixed Tropical Fruit Salad with Superfood Boosts ",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -143,10 +476,47 @@
     "id": 11,
     "image": "/images/image11.png",
     "title": "Big and Juicy Wagyu Beef Cheeseburger",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -155,12 +525,49 @@
   },
   {
     "id": 12,
-    "image": "/images/image12.png",
-    "title": "Healthy Japanese Fried Rice with Asparagus",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "image": "/images/image12.png",
+    "title": "Healthy Japanese Fried Rice with Asparagus",
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -171,10 +578,47 @@
     "id": 13,
     "image": "/images/image13.png",
     "title": "Cauliflower Walnut Vegetarian Taco Meat",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -185,10 +629,47 @@
     "id": 14,
     "image": "/images/image14.png",
     "title": "Rainbow Chicken Salad with Almond Honey Mustard Dressing",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -199,10 +680,47 @@
     "id": 15,
     "image": "/images/image15.png",
     "title": "Barbeque Spicy Sandwiches with Chips ",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -211,12 +729,49 @@
   },
   {
     "id": 16,
-    "image": "/images/image16.png",
-    "title": "Firecracker Vegan Lettuce Wraps - Spicy! ",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "image": "/images/image16.png",
+    "title": "Firecracker Vegan Lettuce Wraps - Spicy! ",
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",
@@ -227,10 +782,47 @@
     "id": 17,
     "image": "/images/image17.png",
     "title": "Chicken Ramen Soup with Mushroom ",
-    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
-    "TimeToReady": 30,
     "Category": "Noodle",
     "Top": 0,
+    "video": "/videos/newDish.mp4",
+    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
+    "TimeToReady": 30,
+    "prepTime": 15,
+    "cookTime": 15,
+    "ingredients": [
+      { "title": "tomato", "amount": "200gr" },
+      { "title": "noodle", "amount": "300gr" },
+      { "title": "tomato sauce", "amount": "1spoon" },
+      { "title": "salt", "amount": "5gr" },
+      { "title": "green pepper", "amount": "200gr" },
+      { "title": "onion", "amount": "200gr" },
+      { "title": "potato", "amount": "200gr" }
+    ],
+    "directions": [
+      {
+        "title": "1. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": "/images/cooking.png"
+      },
+      {
+        "title": "2. Lorem ipsum dolor sit amet ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      },
+      {
+        "title": "3. Lorem ipsum dolor sit amet  ",
+        "direction": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "image": ""
+      }
+    ],
+
+    "nutritionInfo": [
+      { "title": "Calories", "amount": "219.9kcal" },
+      { "title": "Total Fat", "amount": "10.7g" },
+      { "title": "Protein", "amount": "7.9g" },
+      { "title": "Carbohydrate", "amount": "22.3g" },
+      { "title": "Cholostrol", "amount": "37.4mg" }
+    ],
     "author": {
       "name": "John Smith",
       "image": "/images/user.png",

@@ -9,8 +9,8 @@ interface IPostContentProps {
 
 const PostContent: FC<IPostContentProps> = (props) => {
   return (
-    <Container className="max-w-screen-xl  my-16 px-16 mx-auto  ">
-      <Grid container rowGap={8} justifyContent="center">
+    <Container className="max-w-screen-xl  my-16 px-10 md:px-20 mx-auto  ">
+      <Grid container rowGap={8} justifyContent="center" className="">
         <Grid item xs={12} lg={9}>
           {/* posts content section */}
           <Grid container rowGap={6}>

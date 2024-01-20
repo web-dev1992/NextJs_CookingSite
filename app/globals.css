@@ -3,11 +3,14 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    @apply font-sans;
+  }
   h1 {
     @apply font-semibold text-[64px] text-black tracking-tight;
   }
   h2 {
-    @apply font-semibold text-5xl text-black;
+    @apply font-semibold text-5xl text-black tracking-tight;
   }
   h3 {
     @apply font-semibold text-3xl text-black;
@@ -20,7 +23,7 @@
     @apply font-semibold text-xl text-black;
   }
   h6 {
-    @apply font-semibold text-lg text-black;
+    @apply font-semibold text-lg text-black tracking-tight;
   }
   button {
     @apply bg-skyblue;

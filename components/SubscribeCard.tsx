@@ -1,15 +1,12 @@
 import { FC } from "react";
 import Image from "next/image";
-import Container from "@mui/material/Container";
+import Grid from "@mui/material/Grid";
 interface ISubsribeCardProps {}
 const SubscribeCard: FC<ISubsribeCardProps> = (props) => {
   return (
-    <Container className="max-w-screen-xl">
-      <div className=" m-auto relative overflow-hidden bg-skyblue rounded-6xl flex-col flex items-center justify-center gap-8 px-4 py-20 mb-20">
-        {/* <Grid item> */}{" "}
-        <h2 className="text-center w-full ">
-          Deliciousness to your inbox
-        </h2>
+    <Grid container className="my-16 px-10 md:px-20 mx-auto" justifyContent={"center"}>
+      <div className="w-full relative overflow-hidden bg-skyblue rounded-6xl flex-col flex items-center justify-center gap-8 px-4 py-20 ">
+        <h2 className="text-center w-full ">Deliciousness to your inbox</h2>
         <p className="w-full md:w-1/2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa itaque
           rerum qui, facere odit pariatur. Molestias facilis libero maiores
@@ -39,9 +36,8 @@ const SubscribeCard: FC<ISubsribeCardProps> = (props) => {
           alt="subscribePalet"
           className="hidden lg:block absolute -bottom-40 -right-40 "
         />
-        {/* </Grid> */}
       </div>
-    </Container>
+    </Grid>
   );
 };
 

@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Chicken Ramen Soup with Mushroom ",
     "image": "/images/image17.png",
+    "title": "Chicken Ramen Soup with Mushroom ",
     "video": "/videos/newDish.mp4",
     "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente corrupti sed accusamus, est, optio eveniet, inventore nobis voluptas ex molestias ad! Atque sunt omnis magni at facilis itaque ab exercitationem!",
     "TimeToReady": 30,
@@ -34,8 +34,7 @@
         "image": ""
       }
     ],
-    "Category": "Noodle",
-    "Top": 0,
+   
     "nutritionInfo": [
       { "title": "Calories", "amount": "219.9kcal" },
       { "title": "Total Fat", "amount": "10.7g" },
