@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { Grid } from "@mui/material";
+import Grid  from "@mui/material/Grid";
 import OtherRecipeCard from "./OtherRecipeCard";
 interface IOtherRecipesProps {
   title: string;

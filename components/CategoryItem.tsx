@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import Image from "next/image";
-import { Paper } from "@mui/material";
+import Paper  from "@mui/material/Paper";
 interface ICategoryItemProps {
   title: string;
   image: string;

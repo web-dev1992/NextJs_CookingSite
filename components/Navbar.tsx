@@ -2,15 +2,14 @@
 import { FC, useState, MouseEvent } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import {
-  AppBar,
-  Toolbar,
-  IconButton,
-  Box,
-  Menu,
-  MenuList,
-  MenuItem,
-} from "@mui/material";
+import AppBar from "@mui/material/AppBar"
+import Toolbar from "@mui/material/Toolbar"
+import IconButton from "@mui/material/IconButton"
+import Box from "@mui/material/Box"
+import Menu from "@mui/material/Menu"
+import MenuList from "@mui/material/MenuList"
+import MenuItem from "@mui/material/MenuItem";
+
 import MenuIcon from "@mui/icons-material/Menu";
 interface INavbarProps {}
 

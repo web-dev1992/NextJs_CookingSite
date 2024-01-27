@@ -1,6 +1,6 @@
 import { FC } from "react";
 import Container from "@mui/material/Container";
-import { Grid } from "@mui/material";
+import  Grid  from "@mui/material/Grid";
 import MoreRecipeCard from "../MoreRecipeCard";
 interface IRecommendationProps {
   title: string;

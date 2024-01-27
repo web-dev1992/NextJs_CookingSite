@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import Image from "next/image";
-import { Paper } from "@mui/material";
+import  Paper  from "@mui/material/Paper";
 import MiniProfile from "./MiniProfile";
 import Link from "next/link";
 interface CarouselItemProps {
